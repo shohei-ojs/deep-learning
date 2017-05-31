@@ -11,7 +11,7 @@ def softmax(a):
     # 要素の値/全体の要素の合計
     y = exp_a / sum_exp_a
 
-    return y
+    return y 
 
 
 a = [23.0, 0.94, 5.46]
